@@ -1,0 +1,11 @@
+{
+  "name": "TabExample",
+  "author": "React Anywhere Developer",
+  "reactAnywhere": {
+    "version": "0.1.0-rc.7",
+    "displayName": "TabExample",
+    "bundleIdentifier": "com.tabexample",
+    "uriScheme": "tabexample"
+  },
+  "version": "0.1.0"
+}
